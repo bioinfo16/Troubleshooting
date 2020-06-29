@@ -6,8 +6,10 @@ please use **Issues** menu on the left side of your screen.
   
 In **Issues**, there are the post named by tools.  
 Find it and leave the comment about running tool such as error message, opinion about my tool.  
+
+If you want to talk with me directly, please contact to me by e-mail.  
   
-Have a great time with my tool :)  
+Have a great time with my tool :D  
   
     
       
