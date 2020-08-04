@@ -1,7 +1,7 @@
 [![Issues](https://img.shields.io/github/issues/bioinfo16/Troubleshooting.svg)](https://github.com/bioinfo16/Troubleshooting/issues)
 # Troubleshooting
 
-This page is made to troublesoot the error from tools which developed by MJBaek.  
+This page is made to troubleshoot the error from tools that developed by MJBaek.  
 If you have any question to run or find solution to deal tools,  
 please use **Issues** menu on the left side of your screen.  
   
